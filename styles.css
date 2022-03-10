@@ -1,0 +1,66 @@
+/* colors for this app: */
+
+/* text: #d9d2c6 */
+/* borders: #ed3f1c */
+/* boxes: #736b1e */
+
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #d9d2c6;
+    border-radius: 8px;
+    margin-bottom: 4px;
+    outline: none;
+  }
+  
+  #inputButton {
+    color: #d9d2c6;
+    background-color: #736b1e;
+    border: 1px solid #d9d2c6;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  
+  #tabButton {
+    color: #d9d2c6;
+    background-color: #736b1e;
+    border: 1px solid #d9d2c6;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  
+  #deleteButton {
+    color: #736b1e;
+    background-color: #d9d2c6;
+    border: 1px solid #736b1e;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 20px;
+  }
+  
+  li {
+    padding: 4px;
+    border-radius: 4px;
+    margin-top: 4px;
+  }
+  
+  li a {
+    color: #736b1e;
+  }
+  
